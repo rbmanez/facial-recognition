@@ -1,0 +1,8 @@
+.form {
+	width: 700px;
+	background: linear-gradient(to right, DarkTurquoise, DodgerBlue);
+}
+
+button {
+	border: none;
+}
